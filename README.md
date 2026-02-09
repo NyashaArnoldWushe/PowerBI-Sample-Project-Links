@@ -1,4 +1,4 @@
-# PowerBI-Sample-Project-Links
+# PowerBI-Sample-Project-Links [Demo Dashboards using Dummy Data]
 
 MicroFinanceInstitution 1:
 https://app.powerbi.com/view?r=eyJrIjoiNDFmZmJkMDEtZmVmYy00MmRjLTkyZjYtNGYyNDZmZmM1N2RhIiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&embedImagePlaceholder=true
