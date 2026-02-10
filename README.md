@@ -1,5 +1,8 @@
 # PowerBI-Sample-Project-Links [Demo Dashboards using Dummy Data]
 
+Disease Surveillance Concept - Zimbabwe:
+https://app.powerbi.com/view?r=eyJrIjoiODI4NzJmZWYtNTZkOS00NjZjLWExOTMtYzQ5ZDNlNDA0YjI0IiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&pageName=1d18ab9c2052456a96df
+
 MicroFinanceInstitution 1:
 https://app.powerbi.com/view?r=eyJrIjoiNDFmZmJkMDEtZmVmYy00MmRjLTkyZjYtNGYyNDZmZmM1N2RhIiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&embedImagePlaceholder=true
 
