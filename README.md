@@ -9,5 +9,5 @@ https://app.powerbi.com/view?r=eyJrIjoiNDFmZmJkMDEtZmVmYy00MmRjLTkyZjYtNGYyNDZmZ
 MicroFinanceInstitution 2:
 https://app.powerbi.com/view?r=eyJrIjoiMDI3MzEyNjYtNzM3ZS00MGIzLThmNWMtNzFlNzYzYTRkMjVhIiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&pageName=e84e38280c338ee48c28
 
-Law Firm:
+Law Firm Analytics:
 https://app.powerbi.com/view?r=eyJrIjoiMzRkMTZlMDktNzllYi00NTkzLWJhMzQtNzYzMDM0NGNkM2U1IiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&pageName=b3202a1715551b97e147
