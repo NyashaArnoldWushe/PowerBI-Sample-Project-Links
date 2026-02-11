@@ -1,17 +1,13 @@
 # PowerBI-Sample-Project-Links [Demo Dashboards using Dummy Data]
 
 Disease Surveillance Concept - Zimbabwe:
-
 https://app.powerbi.com/view?r=eyJrIjoiODI4NzJmZWYtNTZkOS00NjZjLWExOTMtYzQ5ZDNlNDA0YjI0IiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&pageName=1d18ab9c2052456a96df
 
 MicroFinanceInstitution 1:
-
 https://app.powerbi.com/view?r=eyJrIjoiNDFmZmJkMDEtZmVmYy00MmRjLTkyZjYtNGYyNDZmZmM1N2RhIiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&embedImagePlaceholder=true
 
 MicroFinanceInstitution 2:
-
 https://app.powerbi.com/view?r=eyJrIjoiMDI3MzEyNjYtNzM3ZS00MGIzLThmNWMtNzFlNzYzYTRkMjVhIiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&pageName=e84e38280c338ee48c28
 
 Law Firm Analytics:
-
 https://app.powerbi.com/view?r=eyJrIjoiMzRkMTZlMDktNzllYi00NTkzLWJhMzQtNzYzMDM0NGNkM2U1IiwidCI6ImY3OTFlYjZmLWZkM2MtNDRhYy04ZTUwLWQyYTk2NmZmMTRlOCJ9&pageName=b3202a1715551b97e147
